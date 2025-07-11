@@ -10,8 +10,8 @@ const NavBarPatient = () => {
   <div class="container-fluid">
     <Link class="navbar-brand" to="/">ADD</Link>
       <Link class="navbar-brand" to="/search">SEARCH</Link>
-        <Link class="navbar-brand" to="delete">DELETE</Link>
-        <Link class="navbar-brand" to="view">VIEW</Link>
+        <Link class="navbar-brand" to="/delete">DELETE</Link>
+        <Link class="navbar-brand" to="/about">VIEW</Link>
   </div>
 </nav>
 
